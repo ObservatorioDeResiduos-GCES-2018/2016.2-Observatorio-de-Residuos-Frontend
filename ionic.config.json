@@ -1,4 +1,12 @@
 {
   "name": "observatorio-app",
-  "app_id": "52095822"
+  "integrations": {},
+  "type": "ionic1",
+  "pro_id": "52095822",
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
 }
