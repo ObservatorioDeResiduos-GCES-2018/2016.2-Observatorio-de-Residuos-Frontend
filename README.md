@@ -31,6 +31,6 @@ O primeiro passo é fazer o clone do projeto pelo GitHub (tenha certeza de ter o
 
 ```cd 2016.2-Observatorio-de-Residuos-Frontend```
 
-```sudo docker build -t obs .```
+```sudo docker build -t obs .` ```
 
 ```sudo docker run -p 8100:8100 -v $(pwd):/code obs```
