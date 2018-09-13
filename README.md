@@ -1,6 +1,6 @@
- 2016.2-Time04-Observatório de Resíduos
+ # Observatório de Resíduos
 
-[![Build Status](https://travis-ci.org/fga-gpp-mds/2016.2-Observatorio-de-Residuos-Frontend.svg?branch=devel)](https://travis-ci.org/fga-gpp-mds/2016.2-Observatorio-de-Residuos-Frontend)
+[![Build Status](https://travis-ci.com/ObservatorioDeResiduos-GCES-2018/2016.2-Observatorio-de-Residuos-Frontend.svg?branch=devel)](https://travis-ci.com/ObservatorioDeResiduos-GCES-2018/2016.2-Observatorio-de-Residuos-Frontend)
 
 [![Code Climate](https://codeclimate.com/github/fga-gpp-mds/2016.2-Observatorio-de-Residuos-Frontend/badges/gpa.svg)](https://codeclimate.com/github/fga-gpp-mds/2016.2-Observatorio-de-Residuos-Frontend)
 
