@@ -8,8 +8,8 @@ RUN npm install
 
 ADD . /code
 
-RUN npm install -g ionic 
+RUN npm install -g ionic
 
 EXPOSE 8100
 
-CMD ["npm","start"]
+CMD ["ionic","serve"]
