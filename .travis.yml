@@ -1,0 +1,22 @@
+language: node_js
+
+node_js:
+  - "node"
+
+addons:
+  chrome: stable
+
+before_script:
+  - npm install -g ionic
+  - npm install
+  - set -e
+
+script:
+  - ionic serve
+
+
+notifications:
+  email:
+    recipients:
+      - andrade.icaa@gmail.com
+      
