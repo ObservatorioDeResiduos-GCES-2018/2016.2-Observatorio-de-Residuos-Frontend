@@ -22,5 +22,5 @@ Licenciado sob AGPL V3. Ver [LICENSE](https://github.com/fga-gpp-mds/2016.2-Obse
 
     git clone https://github.com/ObservatorioDeResiduos-GCES-2018/2016.2-Observatorio-de-Residuos-Frontend.git
     cd 2016.2-Observatorio-de-Residuos-Frontend
-    sudo docker build .`
+    sudo docker build -t obs .`
     sudo docker run -p 8100:8100 -v $(pwd):/code obs
