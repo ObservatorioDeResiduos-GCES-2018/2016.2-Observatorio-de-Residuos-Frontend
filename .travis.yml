@@ -19,8 +19,6 @@ before_script:
   - npm install -g cordova ionic
 
 script:
-  - npm run test-ci
-  - npm run lint
   - ionic cordova run android --prod
   - ionic cordova run ios --prod
   
@@ -28,4 +26,11 @@ notifications:
   email:
     recipients:
       - andrade.icaa@gmail.com
+      - annalarissa.mmm@gmail.com
+      - gabrielaalvesdagama@gmail.com
+      - halevalente@gmail.com
+      - lhqmalta@gmail.com
+      - mare.s.mendes@gmail.com
+      
+     
       
