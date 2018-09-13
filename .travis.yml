@@ -7,8 +7,8 @@ addons:
   chrome: stable
 
 before_script:
-  - npm install -g ionic
   - npm install
+  - npm install -g @ionic/cli-framework
   - set -e
 
 script:
