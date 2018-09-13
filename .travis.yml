@@ -21,7 +21,8 @@ before_script:
 script:
   - npm run test-ci
   - npm run lint
-  - ng build --prod
+  - ionic cordova run android --prod
+  - ionic cordova run ios --prod
   
 notifications:
   email:
