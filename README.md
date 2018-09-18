@@ -1,10 +1,10 @@
- # Observatório de Resíduos
+# Observatório de Resíduos
 
 [![Build Status](https://travis-ci.com/ObservatorioDeResiduos-GCES-2018/2016.2-Observatorio-de-Residuos-Frontend.svg?branch=devel)](https://travis-ci.com/ObservatorioDeResiduos-GCES-2018/2016.2-Observatorio-de-Residuos-Frontend)
 
-[![Code Climate](https://codeclimate.com/github/fga-gpp-mds/2016.2-Observatorio-de-Residuos-Frontend/badges/gpa.svg)](https://codeclimate.com/github/fga-gpp-mds/2016.2-Observatorio-de-Residuos-Frontend)
+[![Code Climate](https://codeclimate.com/github/fga-eps-mds/2016.2-Observatorio-de-Residuos-Frontend/badges/gpa.svg)](https://codeclimate.com/github/fga-eps-mds/2016.2-Observatorio-de-Residuos-Frontend)
 
-[![Test Coverage](https://codeclimate.com/github/fga-gpp-mds/2016.2-Observatorio-de-Residuos-Frontend/badges/coverage.svg)](https://codeclimate.com/github/fga-gpp-mds/2016.2-Observatorio-de-Residuos-Frontend/coverage)
+[![Test Coverage](https://codeclimate.com/github/fga-eps-mds/2016.2-Observatorio-de-Residuos-Frontend/badges/coverage.svg)](https://codeclimate.com/github/fga-eps-mds/2016.2-Observatorio-de-Residuos-Frontend/coverage)
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
@@ -15,15 +15,15 @@ A aplicação mobile do Observatório de Resíduos surgiu do projeto da Universi
 
 Software desenvolvido na liguangem Ruby On Rails e framework Ionic.
 
-Link do repositório da parte frontend da aplicação: [backend](https://github.com/fga-gpp-mds/2016.2-Observatorio-de-Residuos-Backend)
+Link do repositório da parte frontend da aplicação: [backend](https://github.com/fga-eps-mds/2016.2-Observatorio-de-Residuos-Backend)
 
 ### Contribuindo
 
-Para contribuir com o projeto, por favor, leia o CONTRIBUTING_, nele contém algumas informações importantes de como contribuir, um link para o nosso código de conduta e alguns dos nossos padrões!
+Para contribuir com o projeto, por favor, leia o [CONTRIBUTING](https://github.com/ObservatorioDeResiduos-GCES-2018/2016.2-Observatorio-de-Residuos-Backend/blob/master/.github/CONTRIBUTING.MD), nele contém algumas informações importantes de como contribuir, um link para o nosso código de conduta e alguns dos nossos padrões!
 
 ### Licença
 
-Licenciado sob AGPL V3. Ver [LICENSE](https://github.com/fga-gpp-mds/2016.2-Observatorio-de-Residuos/blob/master/LICENSE)
+Licenciado sob AGPL V3. Ver [LICENSE](https://github.com/fga-eps-mds/2016.2-Observatorio-de-Residuos/blob/master/LICENSE)
 
 ### Ambiente de Desenvolvimento
 
