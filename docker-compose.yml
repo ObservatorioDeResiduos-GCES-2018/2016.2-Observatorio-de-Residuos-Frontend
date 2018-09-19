@@ -1,0 +1,6 @@
+version: '2.0'
+
+services:
+  ionic:
+    build: .
+    ports: ['8100:8100']
