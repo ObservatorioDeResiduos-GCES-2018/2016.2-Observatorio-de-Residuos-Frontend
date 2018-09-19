@@ -10,6 +10,4 @@ ADD . /code
 
 RUN npm install -g ionic
 
-EXPOSE 8100
-
-CMD ["ionic","serve"]
+EXPOSE 8100 35729 53703
